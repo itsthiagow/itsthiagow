@@ -2,6 +2,7 @@
 - 👨‍💻 Sou interessado em CÓDIGOS
 - 🎓Fluente em inglês desde os 15 anos
 - ✍️ Atualmente estudante JAVA
+- 💻 Cursando Ciência da programação
 - 👨‍💼 Em busca do começo da minha carreira em programação
 - 📫 Como me achar -> insta: @itsthiagow // email: thiagoesf73@gmail.com
 
