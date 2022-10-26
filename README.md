@@ -1,5 +1,5 @@
 - 👋 Opa, sou o @itsthiagow
-- 👨‍💻 Sou interessado em CÓDIGOS
+- 👨‍💻 Sou interessado em códigos
 - 🎓Fluente em inglês desde os 15 anos
 - ✍️ Atualmente estudante JAVA
 - 💻 Cursando Ciência da programação
