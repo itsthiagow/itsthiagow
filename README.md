@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🧑🏻‍💻Estudante de Ciência da computação<br>👨🏻‍💻Estudando as linguagens que me encantam<br>🎮Gosto de jogar Valorant e jogos campanha nas horas vagas
+🧑🏻‍💻Estudante de Ciência da computação<br>👨🏻‍💻Estudando as linguagens que me encantam<br>🎮Gosto de jogar Valorant e outros campanha nas horas vagas
 
 
 ## 🌐 Redes Sociais:
