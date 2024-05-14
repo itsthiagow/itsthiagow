@@ -1,20 +1,52 @@
-# 💫 Sobre mim:
-🧑🏻‍💻Estudante de Ciência da computação<br>👨🏻‍💻Atualmente meu sonho é trabalhar com Python e Inteligência artificial para criar automações<br>🎮Gosto de jogar Valorant e criar conteúdo pra internet de vez em quando
+<h3 align="left">👨🏻‍💻Sobre mim:</h3>
 
+###
 
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsthiagow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferreira-216466292/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsthiagow) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itsthiagow) 
+<p align="left">🧑🏻‍💻Estudante de Ciência da computação<br>🤖Atualmente meu sonho é trabalhar com Python e Inteligência artificial para criar automações<br>🎮Gosto de jogar Valorant e criar conteúdo pra internet de vez em quando</p>
 
-# 💻 Conhecimentos:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+###
 
-# 📊 GitHub Stats:
+<h3 align="left">📊Stats:</h3>
 
+###
 
-
-## Estudando 📚
-<div style="display: inline_block">
-  <img align="center" alt="" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsthiagow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=itsthiagow&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h3 align="left">📚Conhecimentos/Estudos:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<h3 align="left">📱Find me:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/itsthiagow/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-ferreira-216466292/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLQBqxGvwDznRnTHSLCwCqWNpVfvBcsCxSxvnvnHSwdSvDsctWmmNMFFqlpRtgfxqkMnPC" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
