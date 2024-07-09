@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑🏻‍💻Estudante de Ciência da computação<br>🤖Atualmente a meta é trabalhar com Web development<br>🎮Gosto de jogar Valorant e criar conteúdo pra internet de vez em quando</p>
+<p align="left">🧑🏻‍💻Estudante de Ciência da computação<br>🖥️Atualmente a meta é trabalhar com Web development<br>🎮Gosto de jogar Valorant e criar conteúdo pra internet de vez em quando</p>
 
 ###
 
