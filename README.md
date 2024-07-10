@@ -1,4 +1,4 @@
-<h3 align="left">🧑🏻‍🦳
+<h3 align="left">🧑
 Sobre mim:</h3>
 
 ###
