@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👾Estudante de Ciência da computação<br>🖥️Atualmente a meta é trabalhar com Web development<br>🎮Gosto de jogar Valorant e criar conteúdo pra internet de vez em quando</p>
+<p align="left">👾Estudante de Ciência da computação<br>🖥️Atualmente a meta é trabalhar com Web Development<br>🎮Gosto de jogar Valorant e criar conteúdo pra internet de vez em quando</p>
 
 ###
 
@@ -24,7 +24,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
