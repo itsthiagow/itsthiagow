@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👾Estudante de Ciência da computação<br>🖥️Atualmente aspirante Web Developer<br>🎮Gosto de jogar games variados, brincar com Motion Design e criar conteúdo pra internet quando sinto a necessidade de expor algo que gosto online</p>
+<p align="left">👾Estudante de Ciência da computação<br>🖥️Atualmente aspirante Web Developer<br>🎮Gosto de games variados, brincar com Motion Design e criar conteúdo pra internet quando sinto a necessidade de expor algo que gosto</p>
 
 ###
 
