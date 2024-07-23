@@ -37,6 +37,19 @@
 
 ###
 
+<h3 align="left">👩🏻‍💻📓✍🏻💡Próximos aprendizados:</h3>
+
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img width="12" />
+  
+</div>
+
+###
+
 <h3 align="left">📱Find me:</h3>
 
 ###
